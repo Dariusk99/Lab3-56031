@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ## LOCAL
 #1.1
 git commit
